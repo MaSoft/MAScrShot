@@ -6,7 +6,7 @@ Capturas de pantalla para el día a día: una zona, una ventana o la pantalla en
 
 [![Descargar](https://img.shields.io/github/v/release/MaSoft/MAScrShot?label=Descargar&style=for-the-badge)](https://github.com/MaSoft/MAScrShot/releases/latest)
 
-También puedes descargarlo desde [masoft.es](https://masoft.es/descargas.html).
+Más información y el manual también en [masoft.es](https://masoft.es/descargas.html#mascrshot).
 
 ![Capturar](capturas/01-capturar.webp)
 
